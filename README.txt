@@ -123,5 +123,9 @@ http://localhost/Bloodcentre/
 
 ## 👩‍💻 Author
 
+Admin Dashboard :
+Username :Admin
+Password:Test@123
+
 * Kajal Tiwari
 
