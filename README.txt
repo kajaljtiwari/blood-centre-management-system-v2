@@ -121,7 +121,7 @@ http://localhost/Bloodcentre/
 
 ---
 
-## 👩‍💻 Authors
+## 👩‍💻 Author
 
 * Kajal Tiwari
 
