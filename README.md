@@ -122,14 +122,14 @@ http://localhost/Bloodcentre/
 
 ## 📸 Project Screenshots
 
-### 🏠 Home Page
-![Home](Screenshots/home.png)
-
 ### 🏠 Home Page (Section 2)
 ![Home 1](Screenshots/home1.png)
 
 ### 🏠 Home Page (Section 3)
 ![Home 2](Screenshots/home2.png)
+
+### 🏠 Home Page
+![Home](Screenshots/home.png)
 
 ### 🔐 Login Page
 ![Login](Screenshots/login.png)
